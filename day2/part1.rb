@@ -2,7 +2,7 @@
 
 require "ap"
 
-class Day2
+class Day2Part1
   WIN = 6
   EVEN = 3
   LOSS = 0
@@ -67,4 +67,4 @@ class Day2
   end
 end
 
-ap Day2.call
+ap Day2Part1.call
